@@ -6,5 +6,6 @@ A simple horror game, mainly atmospheric: https://macdonaldrobinson.github.io/go
 - ALT to toggle mouse capture
 - AWSD to move
 
-## Horror environnemnent walkthrough
+## Night Horror environment walkthrough
+
 ![image](https://github.com/MacdonaldRobinson/godot-3d-horror-game/assets/18366446/81187545-f483-4fda-8691-e8bd9bde7b29)
